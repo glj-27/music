@@ -1,0 +1,26 @@
+[
+	{
+		"name":"将故事写成我们",
+		"singer":"林俊杰",
+		"time":"05:36",
+		"link_url":"./source/将故事写成我们.mp3",
+		"cover":"./source/将故事写成我们.jpg",
+		"link_lrc":"source/将故事写成我们.txt"
+	},
+	{
+		"name":"不为谁而作的歌",
+		"singer":"林俊杰",
+		"time":"04:29",
+		"link_url":"./source/不为谁而作的歌.mp3",
+		"cover":"./source/不为谁而作的歌.jpg",
+		"link_lrc":"source/不为谁而作的歌.txt"
+	},
+	{
+		"name":"转动",
+		"singer":"林俊杰",
+		"time":"04:49",
+		"link_url":"./source/转动.mp3",
+		"cover":"./source/转动.jpg",
+		"link_lrc":"source/转动.txt"
+	}
+]
